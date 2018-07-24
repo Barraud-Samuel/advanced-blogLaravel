@@ -10,6 +10,14 @@
 @import '~bulma/bulma';
 // Bulma vue modules
 @import "~buefy/src/scss/buefy";
+//custom scss
+@import "overrides";
+@import "helpers";
+@import "styles";
+
+
+
+
 
 .navbar-laravel {
   background-color: #fff;
